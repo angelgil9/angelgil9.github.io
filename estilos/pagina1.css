@@ -24,7 +24,6 @@
     height: 700px;
 }
 .lateraltexto {
-    list-style: none;
     display: block;
     margin-top: 10%;
 }
@@ -42,7 +41,9 @@ main {
     width: 60%;
 }
 #cliff{
-    width: 100%;
+    width: 50%;
+    position: relative;
+    left: 25%;
 }
 #titulolateral {
     text-align: center;
